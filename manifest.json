@@ -1,0 +1,52 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Saucy",
+  "description": "(Diversity x Infinity)∞",
+  "orientation": "any",
+  "responsive": true,
+  "scope": "/",
+  "short_name": "Saucy",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+
+  "categories": ["diversity"],
+"icons": [
+    {
+        "src": "/uploads/app/icon1.png",
+        "type": "image/png",
+  "purpose": "any maskable",
+        "sizes": "120x120"
+    },
+    {
+        "src": "/uploads/app/icon2.png",
+        "type": "image/png",
+  "purpose": "any maskable",
+        "sizes": "152x152"
+    },
+    {
+        "src": "/uploads/app/icon3.png",
+        "type": "image/png",
+  "purpose": "any maskable",
+        "sizes": "167x167"
+    },
+    {
+        "src": "/uploads/app/icon4.png",
+        "type": "image/png",
+  "purpose": "any maskable",
+        "sizes": "180x180"
+    },
+    {
+        "src": "/uploads/app/icon5.png",
+        "type": "image/png",
+        "sizes": "192x192"
+    },
+    {
+        "src": "/uploads/app/icon6.png",
+        "type": "image/png",
+  "purpose": "any maskable",
+        "sizes": "512x512"
+    }
+]
+}

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/src/uploads/app/favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		%svelte.head%
+	</head>
+	<script src="/src/js/custom.js"></script>
+<script>
+	var x = document.createElement("script");
+x.type = "text/javascript";
+x.src = "/src/js/main.js";
+document.head.appendChild(x);
+</script>
+
+	<body>
+		<div id="svelte">%svelte.body%</div>
+	</body>
+</html>
